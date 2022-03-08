@@ -19,7 +19,7 @@ A simple project to make MAX7219 and oled displays playable.
 
 - Ps4 Dualshock Gamepad connected with usb cable
 
-### Connecting devices
+# Connecting devices
 Example of connecting the devices showed below
 
 ![scheme](https://user-images.githubusercontent.com/95547700/157293069-0e42e673-a4e6-4017-b32a-c1aabb55152b.png)
@@ -37,7 +37,7 @@ Oled display:
 - SDA
 - SCL
 
-### Controls
+# Controls
 Tetris game:
 - Movement by arrows
 - X - drop block
@@ -64,7 +64,7 @@ In case your led matrix is another size, just simply change the code at the bott
 ![capture](https://user-images.githubusercontent.com/95547700/157291935-116dc28a-5686-40de-b30c-7870a74bd9f0.PNG)
 
 
-### Presentation
+# Presentation
 ![tt](https://user-images.githubusercontent.com/95547700/157293502-20ad5b7a-7566-4950-82ec-849c35ac83fb.jpg)
 
 ![IMG_20220202_215041](https://user-images.githubusercontent.com/95547700/157293608-5b83b4e5-0588-4cd5-a13a-75ea710cc3c2.jpg)
